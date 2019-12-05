@@ -9,7 +9,7 @@ Tunning database system dapat dilakukan dengan pendekatan beberapa level:
 5. Indexing
 6. Query
 
-Pada praktik ini hanyaakan melakukan tunning pada level Indexing dan Query statment.
+Pada praktik ini hanyaakan melakukan tunning pada level Indexing dan Setting Database Manajement System.
 
 ## Indexing :cyclone:
 
