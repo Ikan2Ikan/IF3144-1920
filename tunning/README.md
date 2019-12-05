@@ -51,4 +51,4 @@ $java tableGen
 
 ### :monkey:Tugas
 
-[Download Tugas](tugas/laporan.xlsx)
+[Download Tugas](../tugas/laporan.xlsx)
