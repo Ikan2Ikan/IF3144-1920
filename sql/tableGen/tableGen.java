@@ -10,7 +10,7 @@ public class tableGen {
     private static int maxDepartment = 50;
     private static int maxRoom = 1000;
     private static int maxCourse = 1000;
-    private static int maxSection = 20000;
+    private static int maxSection = 2000;
     private static int maxAdvisor = 4000;
     private static int maxInstructor = 1000;
     private static int maxTeaches = 5000;
@@ -224,10 +224,10 @@ public class tableGen {
         int course = 200;
         int instructor = 50;
         int teaches = 100;
-        int advisor = 700;
-        int student = 700;
-        int section = 20000;
-        int takes = 20000;
+        int advisor = 500;
+        int student = 500;
+        int section = 1000;
+        int takes = 1000;
         int prereq = 100;
         int timeSlot = 10;
         int i = 0, j = 0, r = 0, c = 0, x = 0, y = 0;
