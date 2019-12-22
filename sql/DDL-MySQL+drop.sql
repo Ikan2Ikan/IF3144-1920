@@ -1,6 +1,5 @@
 
 drop table prereq;
-drop table time_slot;
 drop table advisor;
 drop table takes;
 drop table student;
